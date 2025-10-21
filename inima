@@ -13,9 +13,11 @@
 <body>
     <div class="container">
         <div class="content">
-            <img src="images/image4.jpg" alt="Inima Logo" class="character">
+            <img src="sources/image4.jpg" alt="Inima Logo" class="character">
             <h1 class="title">Inima</h1>
-             <button class="enter-btn">succumb</button>
+             <a href="/screamer.html">
+                <button class="enter-btn">succumb</button>
+             </a>
             <p class="subtitle">i always knew that deep inside i wasn't human</p>
             <div class="social-icons">
                 <a href="https://roethie.tumblr.com/"><i class="fab fa-tumblr"></i></a>
